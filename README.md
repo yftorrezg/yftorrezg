@@ -1,14 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Victor+Manuel+Tacuri+Rengifo;Universidad+Mayor,+Real+y+Pontificia;de+San+Francisco+Xavier+de+Chuquisaca;from+Bolivia)](https://git.io/typing-svg)
-
-<!-- ### Hi there My name is Victor Manuel Tacuri Rengifo 👋-->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Yafer+Torrez;Universidad+Mayor,+Real+y+Pontificia;De+San+Francisco+Xavier+de+Chuquisaca;From+Sucre+Bolivia)](https://git.io/typing-svg)
 
 <!--
-**yftorrezg
-/yftorrezg
-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -51,29 +43,22 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
 <!-- <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p> -->
-<!--
-<p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yftorrezg
-&show_icons=true&locale=en&layout=compact" alt="yftorrezg" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yftorrezg&show_icons=true&locale=en&layout=compact" alt="yftorrezg" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yftorrezg
-&show_icons=true&locale=en" alt="yftorrezg" /></p>
+&show_icons=true&locale=en" alt="yftorrezg" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yftorrezg
 &" alt="yftorrezg" /></p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>-->
+  <img src="https://profile-counter.glitch.me/yftorrezg/count.svg"/>
+</p>
 
-![Snake animation](https://github.com/yftorrezg/yftorrezg/blob/output/github-contribution-grid-snake.svg)
-
-<!-- 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!--
-<br/>
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
-<br/>-->
+<!-- Snake animation -->
+<!-- ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) -->
+ ![Snake animation](https://github.com/yftorrezg/yftorrezg/blob/output/github-contribution-grid-snake.svg)
