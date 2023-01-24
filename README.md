@@ -48,17 +48,13 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yftorrezg&show_icons=true&locale=en&layout=compact" alt="yftorrezg" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yftorrezg
-&show_icons=true&locale=en" alt="yftorrezg" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yftorrezg&show_icons=true&locale=en" alt="yftorrezg" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yftorrezg
-&" alt="yftorrezg" /></p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yftorrezg/count.svg"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yftorrezg&" alt="yftorrezg" /></p>
+
+<p align="center">
+  Visitor count<br><img src="https://profile-counter.glitch.me/yftorrezg/count.svg"/>
 </p>
 
-<!-- Snake animation -->
-<!-- ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) -->
- ![Snake animation](https://github.com/yftorrezg/yftorrezg/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) 
