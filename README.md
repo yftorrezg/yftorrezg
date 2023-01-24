@@ -10,23 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
- <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-      </div>
-</div>
--->
+
 <h1 align="center">Hi 👋, I'm Yafer Torrez</h1>
 <h3 align="center">USFX | Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca</h3>
 <h3 align="left">Languages and Tools:</h3>
@@ -48,18 +32,9 @@
 <p>
   &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yftorrezg&show_icons=true&locale=en&layout=compact" alt="yftorrezg" />
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yftorrezg&show_icons=true&locale=en" alt="yftorrezg" />
 </p>
-
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yftorrezg&" alt="yftorrezg" /></p>
-
 <p align="center">
   Visitor count<br><img src="https://profile-counter.glitch.me/yftorrezg/count.svg"/>
 </p>
